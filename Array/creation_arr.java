@@ -1,4 +1,4 @@
-package Basic_folder.Array;
+
 
 public class creation_arr {
     public static void main(String[] args) {
